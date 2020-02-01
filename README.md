@@ -6,6 +6,8 @@ From a privacy point of view. Easy to remember:
 
 # Testimonials
 
+Unfortunately this website [was flagged on Hacker News](https://archive.is/yISOz) and [locked on /r/firefox](https://archive.is/ghhb8).
+
 > This is about the most useless website I've visited in a long time.  
 > – _Izmaki on [Hacker News](https://archive.is/h2iDt)_
 
